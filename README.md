@@ -13,6 +13,12 @@ A small command-line tool for encoding and decoding messages with the Caesar cip
 ## Installation
 
 ```bash
+git clone https://github.com/ichthyss/PRODIGY_CS_01.git
+```
+```bash
+cd PRODIGY_CS_01
+```
+```bash
 pip install .
 ```
 
