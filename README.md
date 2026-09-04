@@ -17,17 +17,17 @@ pip install .
 ```
 
 ## Usage
-
+(use single quote to encode/decode especial characters)
 ### Encode a message
 
 ```bash
-caesar -m "hello world" -s 3 -e
+caesar -m 'hello world!' -s 3 -e
 ```
 
 Example output:
 
 ```bash
-khoor zruog
+khoor zruog!
 ```
 
 ### Decode a message
